@@ -1,2 +1,4 @@
 .vscode
 .pytest_cace
+.hypothesis
+.pytest_cache
